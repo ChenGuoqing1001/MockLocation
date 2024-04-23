@@ -11,5 +11,4 @@
 
 <a href="https://github.com/ChenGuoqing1001/MockLocation/releases" target="_blank">下载地址</a>
 
-<a href="https://play.google.com/store/apps/developer?id=NadChan" target="_blank">Google Play 下载地址</a>
 
