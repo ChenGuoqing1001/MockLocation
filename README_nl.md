@@ -7,3 +7,6 @@ Met Wukong Virtual Location kunnen gebruikers elke locatie selecteren en simuler
 Het doel van het ontwikkelen van deze app is om Android-ontwikkelaars te helpen locatie- en trajectinformatie nauwkeuriger te simuleren tijdens de ontwikkeling van locatiegebaseerde services (LBS), waardoor de ontwikkelingskosten worden verlaagd.
 
 <a href="https://www.123pan.com/s/k6bMjv-adiI.html" target="_blank">Download hier</a>
+
+
+<a href="https://wwnr.lanzouv.com/b0knhjugb" target="_blank">Download hier</a>
