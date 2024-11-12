@@ -7,3 +7,5 @@ Dengan menggunakan Wukong Virtual Location, pengguna dapat memilih lokasi mana p
 Tujuan dari pengembangan aplikasi ini adalah untuk membantu pengembang Android dalam mensimulasikan informasi lokasi dan jalur dengan lebih akurat saat mengembangkan layanan berbasis lokasi (LBS), sehingga mengurangi biaya pengembangan.
 
 <a href="https://www.123pan.com/s/k6bMjv-adiI.html" target="_blank">Unduh di sini</a>
+
+<a href="https://wwnr.lanzouv.com/b0knhjugb" target="_blank">Unduh di sini</a>
