@@ -7,3 +7,5 @@ Wukong Virtual Locationを使用すると、ユーザーは任意の場所を選
 このアプリの開発目的は、LBS（ロケーションベースサービス）を開発する際に、Android開発者が位置情報や軌跡情報をより正確にシミュレーションできるようにし、開発コストを削減することです。
 
 <a href="https://www.123pan.com/s/k6bMjv-adiI.html" target="_blank">こちらからダウンロード</a>
+
+<a href="https://wwnr.lanzouv.com/b0knhjugb" target="_blank">こちらからダウンロード</a>
