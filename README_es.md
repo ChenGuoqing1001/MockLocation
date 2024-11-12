@@ -7,3 +7,5 @@ Con Wukong Virtual Location, los usuarios pueden seleccionar cualquier ubicació
 El propósito de desarrollar esta aplicación es ayudar a los desarrolladores de Android a simular la información de ubicación y trayectoria de manera más realista durante el desarrollo de servicios basados en la localización (LBS), lo que reduce los costos de desarrollo.
 
 <a href="https://www.123pan.com/s/k6bMjv-adiI.html" target="_blank">Descargar aquí</a>
+
+<a href="https://wwnr.lanzouv.com/b0knhjugb" target="_blank">Descargar aquí</a>
