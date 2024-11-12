@@ -7,3 +7,5 @@ By using <strong>"Wukong Virtual Location"</strong>, users can select any locati
 The primary purpose of developing this application is to assist Android developers in more realistically simulating location and trajectory information when developing LBS (Location-Based Services), thereby reducing development costs.
 
 <a href="https://www.123pan.com/s/k6bMjv-adiI.html" target="_blank">Download Link</a>
+
+<a href="https://wwnr.lanzouv.com/b0knhjugb" target="_blank">Download Link</a>
