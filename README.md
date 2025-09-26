@@ -1,17 +1,17 @@
 # 悟空虚拟定位 - Android模拟定位工具 | Mock GPS Location App
 
-## 🚀 立即下载 | DOWNLOAD NOW
+# 🚀 立即下载 | DOWNLOAD NOW
 
 <div align="center">
 
-### 📱 免费下载 - 100,000+ 用户信赖
+# 📱 免费下载 - 100,000+ 用户信赖
 
-**🔥 最新版本 v3.2.0 | 无需Root | 支持Android 4.4-14**
+## 🔥 最新版本 v3.2.0 | 无需Root | 支持Android 4.4-14
 
-[![下载APK](https://img.shields.io/badge/📥_下载_APK-立即下载-red.svg?style=for-the-badge&logo=android)](https://www.123pan.com/s/k6bMjv-adiI.html)
-[![备用下载](https://img.shields.io/badge/📥_备用下载-蓝奏云-blue.svg?style=for-the-badge&logo=download)](https://wwnr.lanzouv.com/b0knhjugb)
+[![下载APK](https://img.shields.io/badge/📥_下载_APK-立即下载-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
+[![备用下载](https://img.shields.io/badge/📥_备用下载-蓝奏云-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 
-**文件大小:** ~15MB | **安全无毒:** ✅ 完全免费 | **即下即用:** ⚡ 3秒安装
+## 文件大小: ~15MB | 安全无毒: ✅ 完全免费 | 即下即用: ⚡ 3秒安装
 
 ---
 

