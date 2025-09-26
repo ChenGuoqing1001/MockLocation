@@ -1,5 +1,31 @@
 # Wukong Virtual Location - Инструмент Mock GPS для Android | 悟空虚拟定位
 
+## 🌍 Многоязычные версии | Multi-language Versions
+
+**Выберите ваш язык | Choose Your Language:**
+
+[![中文](https://img.shields.io/badge/README-中文-red.svg)](README.md)
+[![English](https://img.shields.io/badge/README-English-blue.svg)](README_en.md)
+[![Español](https://img.shields.io/badge/README-Español-green.svg)](README_es.md)
+[![Français](https://img.shields.io/badge/README-Français-blue.svg)](README_fr.md)
+[![Deutsch](https://img.shields.io/badge/README-Deutsch-black.svg)](README_de.md)
+[![日本語](https://img.shields.io/badge/README-日本語-red.svg)](README_ja.md)
+[![한국어](https://img.shields.io/badge/README-한국어-blue.svg)](README_ko.md)
+[![Русский](https://img.shields.io/badge/README-Русский-blue.svg)](README_ru.md)
+[![Português](https://img.shields.io/badge/README-Português-green.svg)](README_pt.md)
+[![Português(BR)](https://img.shields.io/badge/README-Português(BR)-yellow.svg)](README_pt_BR.md)
+[![Italiano](https://img.shields.io/badge/README-Italiano-green.svg)](README_it.md)
+[![العربية](https://img.shields.io/badge/README-العربية-green.svg)](README_ar.md)
+[![हिन्दी](https://img.shields.io/badge/README-हिन्दी-orange.svg)](README_hi.md)
+[![Türkçe](https://img.shields.io/badge/README-Türkçe-red.svg)](README_tr.md)
+[![Nederlands](https://img.shields.io/badge/README-Nederlands-orange.svg)](README_nl.md)
+[![Tiếng Việt](https://img.shields.io/badge/README-Tiếng_Việt-red.svg)](README_vi.md)
+[![ไทย](https://img.shields.io/badge/README-ไทย-blue.svg)](README_th.md)
+[![தமிழ்](https://img.shields.io/badge/README-தமிழ்-red.svg)](README_ta.md)
+[![Indonesia](https://img.shields.io/badge/README-Indonesia-red.svg)](README_id.md)
+
+---
+
 ![License](https://img.shields.io/badge/License-Free-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)
 ![Version](https://img.shields.io/badge/Version-Latest-orange.svg)
