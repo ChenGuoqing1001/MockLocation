@@ -6,8 +6,6 @@
 
 # 📱 ดาวน์โหลดฟรี - ไว้ใจจากผู้ใช้กว่า 100,000 คน
 
-## 🔥 เวอร์ชันล่าสุด v3.2.0 | ไม่ต้องการ Root | รองรับ Android 4.4-14
-
 [![ดาวน์โหลด APK](https://img.shields.io/badge/📥_ดาวน์โหลด_APK-รับเดี๋ยวนี้-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![ดาวน์โหลดสำรอง](https://img.shields.io/badge/📥_ดาวน์โหลด_สำรอง-แบ็คอัป-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 

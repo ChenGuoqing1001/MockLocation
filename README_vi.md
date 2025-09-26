@@ -6,8 +6,6 @@
 
 # 📱 TẢI XUỐNG MIỄN PHÍ - Được Hơn 100.000 Người Dùng Tin Tưởng
 
-## 🔥 Phiên Bản Mới Nhất v3.2.0 | Không Cần Root | Hỗ Trợ Android 4.4-14
-
 [![Tải APK](https://img.shields.io/badge/📥_Tải_APK-LẤY_NGAY-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![Tải Sao Lưu](https://img.shields.io/badge/📥_Tải_Sao_Lưu-Dự_Phòng-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 

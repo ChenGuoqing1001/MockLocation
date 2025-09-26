@@ -6,8 +6,6 @@
 
 # 📱 무료 다운로드 - 100,000명 이상의 사용자가 신뢰
 
-## 🔥 최신 버전 v3.2.0 | 루트 불필요 | Android 4.4-14 지원
-
 [![APK 다운로드](https://img.shields.io/badge/📥_APK_다운로드-지금_받기-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![미러 다운로드](https://img.shields.io/badge/📥_미러_다운로드-백업-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 

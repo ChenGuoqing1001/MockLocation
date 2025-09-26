@@ -6,8 +6,6 @@
 
 # 📱 無料ダウンロード - 100,000人以上のユーザーに信頼されています
 
-## 🔥 最新バージョン v3.2.0 | Root不要 | Android 4.4-14対応
-
 [![APKダウンロード](https://img.shields.io/badge/📥_APK_ダウンロード-今すぐ入手-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![ミラーダウンロード](https://img.shields.io/badge/📥_ミラー_ダウンロード-バックアップ-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 

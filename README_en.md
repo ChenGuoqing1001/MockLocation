@@ -6,8 +6,6 @@
 
 # 📱 FREE DOWNLOAD - Trusted by 100,000+ Users
 
-## 🔥 Latest Version v3.2.0 | No Root Required | Android 4.4-14 Support
-
 [![Download APK](https://img.shields.io/badge/📥_Download_APK-GET_NOW-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
 [![Mirror Download](https://img.shields.io/badge/📥_Mirror_Download-Backup-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
 
