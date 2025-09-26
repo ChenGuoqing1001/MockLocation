@@ -1,5 +1,22 @@
 # Wukong Virtual Location - Android Mock GPS Tool | 悟空虚拟定位
 
+## 🚀 DOWNLOAD NOW | 立即下载
+
+<div align="center">
+
+### 📱 FREE DOWNLOAD - Trusted by 100,000+ Users
+
+**🔥 Latest Version v3.2.0 | No Root Required | Android 4.4-14 Support**
+
+[![Download APK](https://img.shields.io/badge/📥_Download_APK-GET_NOW-red.svg?style=for-the-badge&logo=android)](https://www.123pan.com/s/k6bMjv-adiI.html)
+[![Mirror Download](https://img.shields.io/badge/📥_Mirror_Download-Backup-blue.svg?style=for-the-badge&logo=download)](https://wwnr.lanzouv.com/b0knhjugb)
+
+**File Size:** ~15MB | **Virus Free:** ✅ Completely Safe | **Quick Install:** ⚡ 3-Second Setup
+
+---
+
+</div>
+
 ## 🌐 Multi-language Versions | 多语言版本
 
 **Choose Your Language | 选择你的语言:**
