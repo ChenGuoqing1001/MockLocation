@@ -1,5 +1,21 @@
 # 悟空虚拟定位 - Android GPS模拟定位工具 | Wukong Virtual Location
 
+# 🚀 立即下载 | DOWNLOAD NOW
+
+<div align="center">
+
+# 📱 免费下载 - 100,000+ 用户信赖
+
+## 🔥 [📥 **立即下载APK** - 主下载地址](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+
+## 💙 [📱 **备用下载链接** - 蓝奏云高速下载](https://wwnr.lanzouv.com/b0knhjugb) 💙
+
+### 文件大小: ~15MB | 安全无毒: ✅ 完全免费 | 即下即用: ⚡ 3秒安装
+
+---
+
+</div>
+
 ## 🌐 多语言版本 | Multi-language Versions
 
 **选择你的语言 | Choose Your Language:**

