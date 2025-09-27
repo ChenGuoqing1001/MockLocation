@@ -154,8 +154,8 @@ A: 只影响位置相关功能，其他功能不受影响。
 ## 📥 下载地址
 
 ### 🔗 官方下载
-- **主下载地址**: [123云盘下载](https://www.123pan.com/s/k6bMjv-adiI.html)
-- **备用地址**: [蓝奏云下载](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 🔥 [**123云盘高速下载**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+- ## 💙 [**蓝奏云备用下载**](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
 ### 📱 安装验证
 ```bash

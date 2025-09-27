@@ -6,10 +6,11 @@
 
 # 📱 免费下载 - 100,000+ 用户信赖
 
-[![下载APK](https://img.shields.io/badge/📥_下载_APK-立即下载-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
-[![备用下载](https://img.shields.io/badge/📥_备用下载-蓝奏云-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
+## 🔥 [📥 **立即下载APK** - 主下载地址](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 
-## 文件大小: ~15MB | 安全无毒: ✅ 完全免费 | 即下即用: ⚡ 3秒安装
+## 💙 [📱 **备用下载链接** - 蓝奏云高速下载](https://wwnr.lanzouv.com/b0knhjugb) 💙
+
+### 文件大小: ~15MB | 安全无毒: ✅ 完全免费 | 即下即用: ⚡ 3秒安装
 
 ---
 
@@ -163,8 +164,8 @@ A: 只影响位置相关功能，其他功能不受影响。
 ## 📥 下载地址 | Download Links
 
 ### 🔗 官方下载
-- **主下载地址**: [123云盘下载](https://www.123pan.com/s/k6bMjv-adiI.html)
-- **备用地址**: [蓝奏云下载](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 🔥 [**123云盘高速下载**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+- ## 💙 [**蓝奏云备用下载**](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
 ### 📱 安装验证
 ```bash

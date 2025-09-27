@@ -6,10 +6,11 @@
 
 # 📱 FREE DOWNLOAD - Trusted by 100,000+ Users
 
-[![Download APK](https://img.shields.io/badge/📥_Download_APK-GET_NOW-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
-[![Mirror Download](https://img.shields.io/badge/📥_Mirror_Download-Backup-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
+## 🔥 [📥 **DOWNLOAD APK NOW** - Main Download Link](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 
-## File Size: ~15MB | Virus Free: ✅ Completely Safe | Quick Install: ⚡ 3-Second Setup
+## 💙 [📱 **BACKUP DOWNLOAD LINK** - Mirror High-Speed Download](https://wwnr.lanzouv.com/b0knhjugb) 💙
+
+### File Size: ~15MB | Virus Free: ✅ Completely Safe | Quick Install: ⚡ 3-Second Setup
 
 ---
 
@@ -169,8 +170,8 @@ A: Only affects location-related functions, all other app features remain unaffe
 ## 📥 Download Links | 下载地址
 
 ### 🔗 Official Downloads
-- **Primary Download**: [123Pan Cloud Storage](https://www.123pan.com/s/k6bMjv-adiI.html)
-- **Mirror Download**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 🔥 [**123Pan High-Speed Download**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+- ## 💙 [**LanzouCloud Backup Download**](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
 ### 📱 Installation Verification
 ```bash

