@@ -240,3 +240,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ---
 
 **Tags SEO**: #MockGPS #FakeLocation #AndroidDeveloper #LBSTesting #GPSSpoof #LocationSimulator #AndroidTools #DeveloperTools #GPSEmulator #LocationTesting #AndroidDev #MobileDevTools
+
+
