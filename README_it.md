@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **LINK DI BACKUP** - Download Mirror Ad Alta Velocità](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### Dimensione File: ~15MB | Senza Virus: ✅ Completamente Sicuro | Installazione Rapida: ⚡ Setup in 3 Secondi
@@ -143,7 +143,7 @@ R: Usa tecnologia hook avanzata rendendo la rilevazione estremamente difficile, 
 
 - **Download Mirror**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
 
-- ## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ## 🛡️ Sicurezza e Privacy

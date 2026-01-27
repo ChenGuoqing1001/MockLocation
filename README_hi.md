@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **बैकअप डाउनलोड लिंक** - हाई-स्पीड मिरर डाउनलोड](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### फ़ाइल साइज़: ~15MB | वायरस फ्री: ✅ पूर्णतः सुरक्षित | त्वरित इंस्टॉल: ⚡ 3 सेकंड सेटअप
@@ -120,7 +120,7 @@ adb install MockLocation.apk
 
 - **मिरर डाउनलोड**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
 
-- ## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 ## 🛡️ सुरक्षा और गोपनीयता
 

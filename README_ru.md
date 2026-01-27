@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **РЕЗЕРВНАЯ ССЫЛКА ЗАГРУЗКИ** - Высокоскоростное Зеркало](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### Размер Файла: ~15MB | Без Вирусов: ✅ Полностью Безопасен | Быстрая Установка: ⚡ Настройка за 3 Секунды
@@ -177,7 +177,7 @@ adb install MockLocation.apk
 
 - **Зеркальная загрузка**: [LanzouCloud резервная копия](https://wwnr.lanzouv.com/b0knhjugb)
 
-- ## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### 📱 Проверка установки
