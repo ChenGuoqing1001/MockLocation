@@ -10,6 +10,9 @@
 
 ## 💙 [📱 **LINK UNDUHAN CADANGAN** - Unduhan Mirror Kecepatan Tinggi](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
+## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+
 ### Ukuran File: ~15MB | Bebas Virus: ✅ Sepenuhnya Aman | Instalasi Cepat: ⚡ Setup 3 Detik
 
 ---
@@ -171,7 +174,10 @@ J: Hanya mempengaruhi fungsi terkait lokasi, semua fungsi aplikasi lain tetap ti
 
 ### 🔗 Unduhan Resmi
 - **Unduhan Utama**: [123Pan Cloud Storage](https://www.123pan.com/s/k6bMjv-adiI.html)
+
 - **Unduhan Mirror**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
 
 ### 📱 Verifikasi Instalasi
 ```bash

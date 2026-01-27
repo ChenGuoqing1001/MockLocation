@@ -10,6 +10,9 @@
 
 ## 💙 [📱 **РЕЗЕРВНАЯ ССЫЛКА ЗАГРУЗКИ** - Высокоскоростное Зеркало](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
+## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+
 ### Размер Файла: ~15MB | Без Вирусов: ✅ Полностью Безопасен | Быстрая Установка: ⚡ Настройка за 3 Секунды
 
 ---
@@ -171,7 +174,10 @@ adb install MockLocation.apk
 
 ### 🔗 Официальные загрузки
 - **Основная загрузка**: [123Pan облачное хранилище](https://www.123pan.com/s/k6bMjv-adiI.html)
+
 - **Зеркальная загрузка**: [LanzouCloud резервная копия](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
 
 ### 📱 Проверка установки
 ```bash

@@ -10,6 +10,9 @@
 
 ## 💙 [📱 **BACKUP DOWNLOAD LINK** - Mirror High-Speed Download](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
+## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+
 ### File Size: ~15MB | Virus Free: ✅ Completely Safe | Quick Install: ⚡ 3-Second Setup
 
 ---
@@ -171,7 +174,10 @@ A: Only affects location-related functions, all other app features remain unaffe
 
 ### 🔗 Official Downloads
 - ## 🔥 [**123Pan High-Speed Download**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+
 - ## 💙 [**LanzouCloud Backup Download**](https://wwnr.lanzouv.com/b0knhjugb) 💙
+- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
 
 ### 📱 Installation Verification
 ```bash

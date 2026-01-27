@@ -10,6 +10,9 @@
 
 ## 💙 [📱 **백업 다운로드 링크** - 고속 미러 다운로드](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
+## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+
 ### 파일 크기: ~15MB | 바이러스 없음: ✅ 완전히 안전 | 빠른 설치: ⚡ 3초 설정
 
 ---
@@ -171,7 +174,10 @@ A: 위치 관련 기능에만 영향을 미치며, 다른 모든 앱 기능은 �
 
 ### 🔗 공식 다운로드
 - **기본 다운로드**: [123Pan 클라우드 스토리지](https://www.123pan.com/s/k6bMjv-adiI.html)
+
 - **미러 다운로드**: [LanzouCloud 백업](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
 
 ### 📱 설치 확인
 ```bash

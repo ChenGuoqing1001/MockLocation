@@ -10,6 +10,9 @@
 
 ## 💙 [📱 **YEDEK İNDİRME BAĞLANTISI** - Yüksek Hızlı Ayna İndirme](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
+## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+
 ### Dosya Boyutu: ~15MB | Virüssüz: ✅ Tamamen Güvenli | Hızlı Kurulum: ⚡ 3 Saniye Kurulum
 
 ---
@@ -171,7 +174,10 @@ C: Yalnızca konum ile ilgili işlevleri etkiler, diğer tüm uygulama işlevler
 
 ### 🔗 Resmi İndirmeler
 - **Ana İndirme**: [123Pan Bulut Depolama](https://www.123pan.com/s/k6bMjv-adiI.html)
+
 - **Yedek İndirme**: [LanzouCloud Yedek](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
 
 ### 📱 Kurulum Doğrulaması
 ```bash

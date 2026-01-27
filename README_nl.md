@@ -10,6 +10,9 @@
 
 ## 💙 [📱 **BACKUP DOWNLOADLINK** - Hoge Snelheid Mirror Download](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
+## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+
 ### Bestandsgrootte: ~15MB | Virusvrij: ✅ Volledig Veilig | Snelle Installatie: ⚡ 3 Seconden Setup
 
 ---
@@ -171,7 +174,10 @@ A: Beïnvloedt alleen locatie-gerelateerde functies, alle andere app functies bl
 
 ### 🔗 Officiële Downloads
 - **Hoofd Download**: [123Pan Cloud Storage](https://www.123pan.com/s/k6bMjv-adiI.html)
+
 - **Spiegel Download**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
 
 ### 📱 Installatie Verificatie
 ```bash

@@ -10,6 +10,9 @@
 
 ## 💙 [📱 **காப்புப் பதிவிறக்க இணைப்பு** - உயர் வேக மிரர் பதிவிறக்கம்](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
+## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+
 ### கோப்பு அளவு: ~15MB | வைரஸ் இல்லை: ✅ முழுமையாக பாதுகாப்பானது | விரைவு நிறுவல்: ⚡ 3 வினாடி அமைப்பு
 
 ---
@@ -171,7 +174,10 @@ adb install MockLocation.apk
 
 ### 🔗 அதிகாரப்பூர்வ பதிவிறக்கங்கள்
 - **முக்கிய பதிவிறக்கம்**: [123Pan Cloud Storage](https://www.123pan.com/s/k6bMjv-adiI.html)
+
 - **மிரர் பதிவிறக்கம்**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
+- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
 
 ### 📱 நிறுவல் சரிபார்ப்பு
 ```bash
