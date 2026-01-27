@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **رابط التحميل الاحتياطي** - تحميل عالي السرعة](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**التنزيل من Google Play - المتجر الرسمي**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### حجم الملف: ~15MB | خالي من الفيروسات: ✅ آمن تماماً | تثبيت سريع: ⚡ إعداد 3 ثوانٍ
@@ -137,7 +137,7 @@ adb install MockLocation.apk
 
 - **التحميل البديل**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
 
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**التنزيل من Google Play - المتجر الرسمي**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ## 🛡️ الأمان والخصوصية
@@ -158,5 +158,6 @@ adb install MockLocation.apk
 ---
 
 **علامات SEO**: #MockGPS #موقع_مزيف #مطور_أندرويد #اختبار_LBS #خداع_GPS #محاكي_موقع #أدوات_أندرويد #أدوات_التطوير
+
 
 

@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **LINK DE BACKUP DE DESCARGA** - Descarga Espelho de Alta Velocidade](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Baixar no Google Play - Loja oficial**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### Tamanho do Ficheiro: ~15MB | Livre de Vírus: ✅ Completamente Seguro | Instalação Rápida: ⚡ Configuração em 3 Segundos
@@ -177,7 +177,7 @@ R: Afeta apenas funções relacionadas à localização, todas as outras funcion
 
 - **Download Espelho**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
 
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Baixar no Google Play - Loja oficial**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### 📱 Verificação da Instalação
@@ -237,5 +237,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ---
 
 **Tags SEO**: #MockGPS #FakeLocation #AndroidDeveloper #LBSTesting #GPSSpoof #LocationSimulator #AndroidTools #DeveloperTools #GPSEmulator #LocationTesting #AndroidDev #MobileDevTools
+
 
 

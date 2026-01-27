@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **ลิงก์ดาวน์โหลดสำรอง** - ดาวน์โหลดมิเรอร์ความเร็วสูง](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**ดาวน์โหลดบน Google Play - ร้านค้าอย่างเป็นทางการ**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### ขนาดไฟล์: ~15MB | ปลอดไวรัส: ✅ ปลอดภัย 100% | ติดตั้งเร็ว: ⚡ ใช้เวลา 3 วินาที
@@ -177,7 +177,7 @@ adb install MockLocation.apk
 
 - **ดาวน์โหลดสำรอง**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
 
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**ดาวน์โหลดบน Google Play - ร้านค้าอย่างเป็นทางการ**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### 📱 การตรวจสอบการติดตั้ง
@@ -239,5 +239,6 @@ SHA256: 1a2b3c4d5e6f...
 ---
 
 **แท็ก SEO**: #MockGPS #FakeLocation #AndroidDeveloper #LBSTesting #GPSSpoof #LocationSimulator #AndroidTools #DeveloperTools #GPSEmulator #LocationTesting #AndroidDev #MobileDevTools
+
 
 

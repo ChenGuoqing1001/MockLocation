@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **LIÊN KẾT SAO LƯU** - Tải Xuống Mirror Tốc Độ Cao](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Tải về trên Google Play - Cửa hàng chính thức**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### Kích Thước File: ~15MB | Không Virus: ✅ Hoàn Toàn An Toàn | Cài Đặt Nhanh: ⚡ Thiết Lập 3 Giây
@@ -177,7 +177,7 @@ adb install MockLocation.apk
 
 - **Tải xuống mirror**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
 
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Tải về trên Google Play - Cửa hàng chính thức**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### 📱 Xác Minh Cài Đặt
@@ -240,5 +240,7 @@ Dự án này được cấp phép theo Giấy phép MIT - xem file [LICENSE](LI
 ---
 
 **Thẻ SEO**: #MockGPS #FakeLocation #AndroidDeveloper #LBSTesting #GPSSpoof #LocationSimulator #AndroidTools #DeveloperTools #GPSEmulator #LocationTesting #AndroidDev #MobileDevTools
+
+
 
 

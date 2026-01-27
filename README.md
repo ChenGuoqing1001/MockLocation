@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **备用下载链接** - 蓝奏云高速下载](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Google Play 下载 - 官方商店**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 ### 文件大小: ~15MB | 安全无毒: ✅ 完全免费 | 即下即用: ⚡ 3秒安装
 
@@ -169,7 +169,7 @@ A: 只影响位置相关功能，其他功能不受影响。
 - ## 🔥 [**123云盘高速下载**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 - ## 💙 [**蓝奏云备用下载**](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Google Play 下载 - 官方商店**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 ## 🛡️ 安全说明 | Security Notice
 
@@ -203,5 +203,6 @@ A: 只影响位置相关功能，其他功能不受影响。
 ---
 
 **关键标签**: #Android #MockGPS #FakeLocation #LocationSpoof #GPSEmulator #LBSTesting #AndroidDeveloper #位置模拟 #GPS工具 #安卓开发
+
 
 
