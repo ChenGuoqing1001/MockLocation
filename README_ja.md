@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **バックアップダウンロードリンク** - 高速ミラーダウンロード](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### ファイルサイズ: ~15MB | ウイルスフリー: ✅ 完全安全 | クイックインストール: ⚡ 3秒セットアップ
@@ -128,7 +128,8 @@ A: 高度なhook技術を使用しているため検出は非常に困難です�
 - ## 🔥 [**123Pan高速ダウンロード**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 
 - ## 💙 [**LanzouCloudバックアップダウンロード**](https://wwnr.lanzouv.com/b0knhjugb) 💙
-- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+- ## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ## 🛡️ セキュリティとプライバシー

@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **BACKUP-DOWNLOAD-LINK** - Hochgeschwindigkeits-Spiegel-Download](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ## Dateigröße: ~15MB | Virenfrei: ✅ Völlig Sicher | Schnelle Installation: ⚡ 3-Sekunden-Setup
@@ -128,7 +128,8 @@ A: Verwendet fortschrittliche Hook-Technologie, die die Erkennung extrem schwier
 - **Haupt-Download**: [123Pan Cloud Storage](https://www.123pan.com/s/k6bMjv-adiI.html)
 
 - **Spiegel-Download**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
-- ## 💚 [▶️ **GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+
+- ## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ## 🛡️ Sicherheit & Datenschutz
