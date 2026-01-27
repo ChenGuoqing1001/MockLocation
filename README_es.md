@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **ENLACE DE DESCARGA DE RESPALDO** - Descarga Espejo de Alta Velocidad](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### Tamaño del Archivo: ~15MB | Libre de Virus: ✅ Completamente Seguro | Instalación Rápida: ⚡ Configuración de 3 Segundos
@@ -129,7 +129,7 @@ R: Utiliza tecnología hook avanzada haciendo que la detección sea extremadamen
 
 ## 💙 [**Descarga Espejo** - Respaldo LanzouCloud](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ## 🛡️ Seguridad y Privacidad

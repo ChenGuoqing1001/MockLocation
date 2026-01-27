@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **备用下载链接** - 蓝奏云高速下载](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 ### 文件大小: ~15MB | 安全无毒: ✅ 完全免费 | 即下即用: ⚡ 3秒安装
 
@@ -169,7 +169,7 @@ A: 只影响位置相关功能，其他功能不受影响。
 - ## 🔥 [**123云盘高速下载**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
 - ## 💙 [**蓝奏云备用下载**](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-- ## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+- ## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 ## 🛡️ 安全说明 | Security Notice
 

@@ -10,7 +10,7 @@
 
 ## 💙 [📱 **LIEN DE TÉLÉCHARGEMENT DE SAUVEGARDE** - Téléchargement Miroir Haute Vitesse](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ### Taille du Fichier: ~15MB | Sans Virus: ✅ Complètement Sûr | Installation Rapide: ⚡ Configuration en 3 Secondes
@@ -129,7 +129,7 @@ R: Utilise une technologie hook avancée rendant la détection extrêmement diff
 
 ## 💙 [**Téléchargement Miroir** - Sauvegarde LanzouCloud](https://wwnr.lanzouv.com/b0knhjugb) 💙
 
-## 💚 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 💚 [<img src="assets/google-play.svg" alt="Google Play" width="20" />](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**GOOGLE PLAY DOWNLOAD** - Official Store](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
 
 
 ## 🛡️ Sécurité et Confidentialité
