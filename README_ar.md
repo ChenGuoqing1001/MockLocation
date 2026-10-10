@@ -1,163 +1,73 @@
 # Wukong Virtual Location - أداة Mock GPS لأندرويد | 悟空虚拟定位
 
-# 🚀 تحميل الآن | DOWNLOAD NOW
+يوفر Wukong Virtual Location (Mock Location) مواقع للاختبار عبر ميزة الموقع الوهمي في Android. اختر نقطة على الخريطة أو ابحث عن مكان أو أدخل إحداثيات أو حاكِ مسارًا. لا يتطلب صلاحيات Root.
 
-<div align="center">
+**[⬇ تحميل APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)** · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
 
-# 📱 تحميل مجاني - موثوق من قبل أكثر من 100,000 مستخدم
+[![GitHub release](https://img.shields.io/github/v/release/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/stargazers)
 
-## 🔥 [📥 **تحميل APK الآن** - رابط التحميل الرئيسي](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+## معاينة التطبيق
 
-## 💙 [📱 **رابط التحميل الاحتياطي** - تحميل عالي السرعة](https://wwnr.lanzouv.com/b0knhjugb) 💙
+<p>
+  <img src="assets/screenshots/map.png" width="260" alt="معاينة التطبيق — Map / Mock Location" />
+  <img src="assets/screenshots/route.png" width="260" alt="معاينة التطبيق — Route / Speed" />
+</p>
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**التنزيل من Google Play - المتجر الرسمي**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+<details>
+<summary>لغات أخرى</summary>
 
+[中文](README.md) · [English](README_en.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Русский](README_ru.md) · [Português](README_pt.md) · [Português (BR)](README_pt_BR.md) · [Italiano](README_it.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [Türkçe](README_tr.md) · [Nederlands](README_nl.md) · [Tiếng Việt](README_vi.md) · [ไทย](README_th.md) · [தமிழ்](README_ta.md) · [Bahasa Indonesia](README_id.md)
 
-### حجم الملف: ~15MB | خالي من الفيروسات: ✅ آمن تماماً | تثبيت سريع: ⚡ إعداد 3 ثوانٍ
+</details>
 
----
+## الميزات
 
-</div>
+- اختيار نقاط الخريطة والبحث عن الأماكن والعناوين.
+- إدخال إحداثيات WGS84 وGCJ-02 وBD-09 وتحويلها.
+- محاكاة المسارات مع نقاط وسيطة وسرعة قابلة للضبط.
+- التبديل بين الخرائط المتاحة مثل Google وAMap وBaidu.
+- إعادة استخدام مواقع الاختبار من المفضلة والسجل.
 
-## 🌐 النسخ متعددة اللغات | Multi-language Versions
+## إعداد الموقع الوهمي في Android
 
-**اختر لغتك | Choose Your Language:**
+1. حمّل ملف APK وثبّته. إذا طُلب منك ذلك، اسمح للمتصفح أو مدير الملفات المستخدم بتثبيت الملف.
+2. في قسم «حول الهاتف»، اضغط على رقم الإصدار أو رقم البناء سبع مرات لتفعيل خيارات المطوّر. قد تختلف أسماء القوائم حسب الجهاز.
+3. في خيارات المطوّر، اختر هذا التطبيق كتطبيق للموقع الوهمي.
+4. امنح إذن الموقع، واختر نقطة أو أدخل إحداثيات، ثم ابدأ المحاكاة.
+5. حدّث الموقع في التطبيق الذي تختبره وأوقف المحاكاة بعد انتهاء الاختبار.
 
-[![中文](https://img.shields.io/badge/README-中文-red.svg)](README.md)
-[![English](https://img.shields.io/badge/README-English-blue.svg)](README_en.md)
-[![Español](https://img.shields.io/badge/README-Español-green.svg)](README_es.md)
-[![Français](https://img.shields.io/badge/README-Français-blue.svg)](README_fr.md)
-[![Deutsch](https://img.shields.io/badge/README-Deutsch-black.svg)](README_de.md)
-[![日本語](https://img.shields.io/badge/README-日本語-red.svg)](README_ja.md)
-[![한국어](https://img.shields.io/badge/README-한국어-blue.svg)](README_ko.md)
-[![Русский](https://img.shields.io/badge/README-Русский-blue.svg)](README_ru.md)
-[![Português](https://img.shields.io/badge/README-Português-green.svg)](README_pt.md)
-[![Português(BR)](https://img.shields.io/badge/README-Português(BR)-yellow.svg)](README_pt_BR.md)
-[![Italiano](https://img.shields.io/badge/README-Italiano-green.svg)](README_it.md)
-[![العربية](https://img.shields.io/badge/README-العربية-green.svg)](README_ar.md)
-[![हिन्दी](https://img.shields.io/badge/README-हिन्दी-orange.svg)](README_hi.md)
-[![Türkçe](https://img.shields.io/badge/README-Türkçe-red.svg)](README_tr.md)
-[![Nederlands](https://img.shields.io/badge/README-Nederlands-orange.svg)](README_nl.md)
-[![Tiếng Việt](https://img.shields.io/badge/README-Tiếng_Việt-red.svg)](README_vi.md)
-[![ไทย](https://img.shields.io/badge/README-ไทย-blue.svg)](README_th.md)
-[![தமிழ்](https://img.shields.io/badge/README-தமிழ்-red.svg)](README_ta.md)
-[![Indonesia](https://img.shields.io/badge/README-Indonesia-red.svg)](README_id.md)
+## لماذا لا يعمل الموقع الوهمي؟
 
----
+تحقق من التطبيق المحدد وإذن الموقع وحالة المحاكاة. بعد إعادة التثبيت، اختر التطبيق مجددًا. يضع Android علامة على المواقع الوهمية؛ وقد تكتشفها بعض التطبيقات أو ترفضها.
 
-![الترخيص](https://img.shields.io/badge/License-مجاني-green.svg)
-![المنصة](https://img.shields.io/badge/Platform-Android-blue.svg)
-![الإصدار](https://img.shields.io/badge/Version-الأحدث-orange.svg)
-![التحميلات](https://img.shields.io/badge/Downloads-100k+-brightgreen.svg)
+## Xiaomi / HyperOS: توقف المحاكاة في الخلفية
 
-## 📍 نظرة عامة
+إذا توقفت بعد قفل الشاشة أو الانتقال إلى تطبيق آخر، تحقق من قيود البطارية ونشاط الخلفية والتشغيل التلقائي إن كانت متاحة. اسمح بالعمل في الخلفية للاختبار. تختلف الإعدادات حسب إصدار النظام.
 
-**Wukong Virtual Location** هي أداة محترفة لمحاكاة GPS على أندرويد مصممة للمطورين والمستخدمين لتوفير محاكاة دقيقة للموقع الجغرافي. لا تتطلب صلاحيات الروت، تدعم جميع إصدارات أندرويد، مما يجعلها الحل الأكثر موثوقية للموقع المزيف.
+## فشل البحث أو انحراف الإحداثيات
 
-**الكلمات المفتاحية**: mock gps، موقع مزيف، gps مخادع، محاكي الموقع، أدوات مطور أندرويد، اختبار LBS، محاكي GPS، موقع افتراضي
+تحقق من الشبكة وجرّب مصدر خرائط آخر عند فشل البحث أو تحميل الخريطة. إذا انحرف الموقع، اختر نظام الإحداثيات المطابق للبيانات المدخلة: WGS84 أو GCJ-02 أو BD-09.
 
-## ⭐ الميزات الرئيسية
+## الخصوصية والاستخدام
 
-### 🎯 محاكاة موقع دقيقة
-- **لا تتطلب الروت**: تعمل بدون صلاحيات الروت على أي جهاز أندرويد
-- **إحداثيات دقيقة**: تدعم خداع كل من GPS وموقع الشبكة
-- **تحديثات فورية**: تغييرات موقع فورية مع انتقالات سلسة
-- **محاكاة المسار**: مسارات حركة مخصصة بسرعة قابلة للتعديل
+تُحفظ المفضلة والسجل على الجهاز. تستخدم الخرائط والبحث خدمات الشبكة؛ فالتطبيق ليس غير متصل بالكامل. راجع Google Play لمعرفة تفاصيل الخصوصية وعمليات الشراء داخل التطبيق. استخدم الأداة للتطوير والاختبار والعروض وفق قواعد الخدمات التي تختبرها.
 
-### 🛠️ أدوات المطورين
-- **مجموعة اختبار LBS**: إطار عمل كامل لاختبار الخدمات القائمة على الموقع
-- **توافق API**: يعمل مع جميع APIs وأطر عمل الموقع الرئيسية
-- **وضع التصحيح**: سجلات مفصلة للموقع وتقارير الأخطاء
-- **اختبار مجمّع**: تبديل سريع بين مواقع اختبار متعددة
+[Android](https://developer.android.com/studio/debug/dev-options) · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
 
-## 📱 متطلبات النظام
+## التحميل والإصدارات
 
-| الميزة | المتطلب |
-|-------|---------|
-| **إصدار النظام** | Android 4.4+ (API 19+) |
-| **البنية** | ARM, ARM64, x86, x86_64 |
-| **الأذونات** | الموقع، الوصول للتخزين |
-| **استخدام RAM** | الحد الأدنى 20MB، المستحسن 50MB+ |
-| **التخزين** | الحد الأدنى 10MB مساحة متوفرة |
+- [تحميل APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+- [GitHub Releases](https://github.com/ChenGuoqing1001/MockLocation/releases)
 
-## 🚀 دليل البدء السريع
+<details>
+<summary>روابط تحميل بديلة</summary>
 
-### 1. عملية التثبيت
-```bash
-# الطريقة 1: تثبيت APK مباشر
-تحميل APK ← تفعيل المصادر غير المعروفة ← تثبيت
+- [LanzouCloud](https://wwnr.lanzouv.com/b0knhjugb)
+- [123Pan](https://www.123pan.com/s/k6bMjv-adiI.html)
 
-# الطريقة 2: تثبيت المطور
-adb install MockLocation.apk
-```
+</details>
 
-### 2. إعداد الأذونات
-1. فتح "الإعدادات" ← "خيارات المطور"
-2. تفعيل "تطبيق موقع وهمي"
-3. اختيار "Wukong Virtual Location"
-4. منح أذونات الوصول للموقع
+## الإبلاغ عن مشكلة
 
-### 3. الاستخدام الأساسي
-```
-1. تشغيل التطبيق
-2. النقر على الموقع المستهدف على الخريطة
-3. النقر على "بدء المحاكاة"
-4. التحقق من نشاط الموقع
-```
-
-## 💡 حالات الاستخدام
-
-### 👨‍💻 التطوير والاختبار
-- **تطوير تطبيقات LBS**: اختبار وظائف الخدمات القائمة على الموقع
-- **تصحيح تطبيقات الخرائط**: التحقق من عرض الخرائط وتخطيط المسارات
-- **اختبار دقة الموقع**: محاكاة قوى إشارة GPS مختلفة
-- **اختبار الحالات الحدية**: اختبار سلوك التطبيق في مواقع خاصة
-
-### 🎮 سيناريوهات التطبيق
-- **التطبيقات الاجتماعية**: اختبار مشاركة الموقع وميزات تسجيل الوصول
-- **تطبيقات السفر**: تصحيح تطبيقات استدعاء المركبات والملاحة
-- **تطبيقات الألعاب**: اختبار ألعاب AR والألعاب القائمة على الموقع
-- **حماية الخصوصية**: حماية خصوصية الموقع الفعلي
-
-## ❓ الأسئلة الشائعة
-
-### س: هل يتطلب صلاحيات الروت؟
-ج: لا، هذا التطبيق يعمل بشكل مثالي على الأجهزة غير المجذرة باستخدام API الموقع الوهمي للنظام.
-
-### س: ما إصدارات أندرويد المدعومة؟
-ج: جميع إصدارات أندرويد من 4.4 إلى أحدث أندرويد 14 مدعومة بالكامل.
-
-### س: هل يمكن اكتشافه من قبل تطبيقات أخرى؟
-ج: يستخدم تقنية hook متقدمة تجعل الاكتشاف صعباً للغاية، لكن استخدمه بمسؤولية.
-
-## 📥 روابط التحميل
-
-### 🔗 التحميلات الرسمية
-- **التحميل الرئيسي**: [123Pan Cloud Storage](https://www.123pan.com/s/k6bMjv-adiI.html)
-
-- **التحميل البديل**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
-
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**التنزيل من Google Play - المتجر الرسمي**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
-
-
-## 🛡️ الأمان والخصوصية
-
-- ✅ خالي من الفيروسات، بدون كود خبيث
-- ✅ لا يجمع البيانات الشخصية
-- ✅ لا يرسل البيانات عبر الشبكة
-- ✅ تشغيل غير متصل بالكامل
-- ✅ مراجعة أمنية مفتوحة المصدر
-
-## 📞 الدعم والمجتمع
-
-- **التوثيق**: [دليل المستخدم الكامل](https://docs.mocklocation.com)
-- **تقارير الأخطاء**: [GitHub Issues](https://github.com/username/MockLocation/issues)
-- **المجتمع**: مجموعة تلجرام @MockLocationUsers
-- **دعم الإيميل**: support@mocklocation.com
-
----
-
-**علامات SEO**: #MockGPS #موقع_مزيف #مطور_أندرويد #اختبار_LBS #خداع_GPS #محاكي_موقع #أدوات_أندرويد #أدوات_التطوير
-
-
-
+اذكر إصدار التطبيق وطراز الجهاز وإصدار Android وخطوات إعادة إنتاج المشكلة: [GitHub Issues](https://github.com/ChenGuoqing1001/MockLocation/issues).

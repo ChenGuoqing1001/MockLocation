@@ -1,242 +1,73 @@
 # Wukong Virtual Location - Ferramenta Mock GPS para Android | 悟空虚拟定位
 
-# 🚀 DESCARREGAR AGORA | DOWNLOAD NOW
+Wukong Virtual Location (Mock Location) fornece localizações de teste através da função de localização simulada do Android. Escolha um ponto no mapa, pesquise locais, introduza coordenadas ou simule um percurso. Não requer root.
 
-<div align="center">
+**[⬇ Descarregar APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)** · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
 
-# 📱 DESCARGA GRATUITA - Confiável por Mais de 100.000 Utilizadores
+[![GitHub release](https://img.shields.io/github/v/release/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/stargazers)
 
-## 🔥 [📥 **DESCARREGAR APK AGORA** - Link Principal de Descarga](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+## Pré-visualização da aplicação
 
-## 💙 [📱 **LINK DE BACKUP DE DESCARGA** - Descarga Espelho de Alta Velocidade](https://wwnr.lanzouv.com/b0knhjugb) 💙
+<p>
+  <img src="assets/screenshots/map.png" width="260" alt="Pré-visualização da aplicação — Map / Mock Location" />
+  <img src="assets/screenshots/route.png" width="260" alt="Pré-visualização da aplicação — Route / Speed" />
+</p>
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Baixar no Google Play - Loja oficial**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+<details>
+<summary>Outros idiomas</summary>
 
+[中文](README.md) · [English](README_en.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Русский](README_ru.md) · [Português](README_pt.md) · [Português (BR)](README_pt_BR.md) · [Italiano](README_it.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [Türkçe](README_tr.md) · [Nederlands](README_nl.md) · [Tiếng Việt](README_vi.md) · [ไทย](README_th.md) · [தமிழ்](README_ta.md) · [Bahasa Indonesia](README_id.md)
 
-### Tamanho do Ficheiro: ~15MB | Livre de Vírus: ✅ Completamente Seguro | Instalação Rápida: ⚡ Configuração em 3 Segundos
+</details>
 
----
+## Funcionalidades
 
-</div>
+- Seleção de pontos no mapa e pesquisa de locais ou moradas.
+- Introdução e conversão de coordenadas WGS84, GCJ-02 e BD-09.
+- Simulação de percursos com pontos de passagem e velocidade ajustável.
+- Alternância entre mapas disponíveis, como Google, AMap e Baidu.
+- Favoritos e histórico para repetir testes.
 
-## 🌍 Versões Multi-idioma | Multi-language Versions
+## Configurar a localização simulada no Android
 
-**Escolha seu idioma | Choose Your Language:**
+1. Descarregue e instale o APK. Se solicitado, permita a instalação pelo navegador ou gestor de ficheiros utilizado.
+2. Em Acerca do telefone, toque sete vezes no número de compilação para ativar as opções de programador. Os menus variam conforme o dispositivo.
+3. Nas opções de programador, selecione esta aplicação como aplicação de localização simulada.
+4. Conceda a permissão de localização, escolha um ponto ou introduza coordenadas e inicie a simulação.
+5. Atualize a localização na aplicação de teste e pare a simulação no final.
 
-[![中文](https://img.shields.io/badge/README-中文-red.svg)](README.md)
-[![English](https://img.shields.io/badge/README-English-blue.svg)](README_en.md)
-[![Español](https://img.shields.io/badge/README-Español-green.svg)](README_es.md)
-[![Français](https://img.shields.io/badge/README-Français-blue.svg)](README_fr.md)
-[![Deutsch](https://img.shields.io/badge/README-Deutsch-black.svg)](README_de.md)
-[![日本語](https://img.shields.io/badge/README-日本語-red.svg)](README_ja.md)
-[![한국어](https://img.shields.io/badge/README-한국어-blue.svg)](README_ko.md)
-[![Русский](https://img.shields.io/badge/README-Русский-blue.svg)](README_ru.md)
-[![Português](https://img.shields.io/badge/README-Português-green.svg)](README_pt.md)
-[![Português(BR)](https://img.shields.io/badge/README-Português(BR)-yellow.svg)](README_pt_BR.md)
-[![Italiano](https://img.shields.io/badge/README-Italiano-green.svg)](README_it.md)
-[![العربية](https://img.shields.io/badge/README-العربية-green.svg)](README_ar.md)
-[![हिन्दी](https://img.shields.io/badge/README-हिन्दी-orange.svg)](README_hi.md)
-[![Türkçe](https://img.shields.io/badge/README-Türkçe-red.svg)](README_tr.md)
-[![Nederlands](https://img.shields.io/badge/README-Nederlands-orange.svg)](README_nl.md)
-[![Tiếng Việt](https://img.shields.io/badge/README-Tiếng_Việt-red.svg)](README_vi.md)
-[![ไทย](https://img.shields.io/badge/README-ไทย-blue.svg)](README_th.md)
-[![தமிழ்](https://img.shields.io/badge/README-தமிழ்-red.svg)](README_ta.md)
-[![Indonesia](https://img.shields.io/badge/README-Indonesia-red.svg)](README_id.md)
+## Porque não funciona a localização simulada?
 
----
+Verifique a aplicação selecionada, a permissão de localização e o estado da simulação. Após reinstalar, selecione novamente a aplicação. O Android identifica localizações simuladas; algumas aplicações podem detetá-las ou recusá-las.
 
-![License](https://img.shields.io/badge/License-Free-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)
-![Version](https://img.shields.io/badge/Version-Latest-orange.svg)
-![Downloads](https://img.shields.io/badge/Downloads-100k+-brightgreen.svg)
+## Xiaomi / HyperOS: a simulação para em segundo plano
 
-## 📍 Visão Geral | Introdução
+Se parar ao bloquear o ecrã ou mudar de aplicação, verifique as restrições de bateria, a atividade em segundo plano e o arranque automático, se disponíveis. Permita a execução em segundo plano para o teste. As definições variam conforme a versão do sistema.
 
-**Wukong Virtual Location** é uma ferramenta profissional de mock GPS para Android projetada para desenvolvedores e usuários fornecerem simulação precisa de localização geográfica. Não requer root, suporta todas as versões do Android, tornando-se a solução de localização falsa mais confiável disponível.
+## Falha na pesquisa ou coordenadas deslocadas
 
-**Palavras-chave**: mock gps, fake location, gps spoof, simulador de localização, ferramentas de desenvolvedor android, teste LBS, emulador GPS, localização virtual, falsificador de posição
+Verifique a rede e experimente outra fonte de mapas se a pesquisa ou o carregamento falhar. Para posições deslocadas, escolha o sistema correspondente às coordenadas introduzidas: WGS84, GCJ-02 ou BD-09.
 
-## ⭐ Características Principais | Recursos Essenciais
+## Privacidade e utilização
 
-### 🎯 Simulação Precisa de Localização
-- **Sem Root Necessário**: Funciona sem acesso root em qualquer dispositivo Android
-- **Coordenadas Precisas**: Suporta falsificação tanto de GPS quanto de localização de rede
-- **Atualizações em Tempo Real**: Mudanças instantâneas de localização com transições suaves
-- **Simulação de Rotas**: Caminhos de movimento personalizados com velocidade ajustável
+Os favoritos e o histórico ficam no dispositivo. Os mapas e a pesquisa utilizam serviços de rede; a aplicação não funciona totalmente offline. Consulte o Google Play para privacidade e compras na aplicação. Utilize a ferramenta para desenvolvimento, testes e demonstrações respeitando as regras dos serviços testados.
 
-### 🛠️ Ferramentas para Desenvolvedores
-- **Suite de Teste LBS**: Framework completo para teste de Serviços Baseados em Localização
-- **Compatibilidade de API**: Funciona com todas as principais APIs e frameworks de localização
-- **Modo Debug**: Logs detalhados de localização e relatórios de erro
-- **Teste em Lote**: Troca rápida entre múltiplas localizações de teste
+[Android](https://developer.android.com/studio/debug/dev-options) · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
 
-### 🔧 Opções Avançadas
-- **Controle Joystick**: Controle de movimento preciso estilo gamepad
-- **Localizações Favoritas**: Acesso com um clique a posições frequentemente usadas
-- **Rastreamento de Histórico**: Histórico completo de uso e registros de localização
-- **Importar/Exportar**: Suporte para GPX, KML e outros formatos padrão
+## Descargas e versões
 
-## 📱 Requisitos do Sistema | Especificações
+- [Descarregar APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+- [GitHub Releases](https://github.com/ChenGuoqing1001/MockLocation/releases)
 
-| Recurso | Requisito |
-|---------|-----------|
-| **Versão do OS** | Android 4.4+ (API 19+) |
-| **Arquitetura** | ARM, ARM64, x86, x86_64 |
-| **Permissões** | Localização, acesso ao armazenamento |
-| **Uso de RAM** | Mínimo 20MB, Recomendado 50MB+ |
-| **Armazenamento** | Mínimo 10MB de espaço disponível |
+<details>
+<summary>Descargas alternativas</summary>
 
-## 🚀 Guia de Início Rápido | Começando
+- [LanzouCloud](https://wwnr.lanzouv.com/b0knhjugb)
+- [123Pan](https://www.123pan.com/s/k6bMjv-adiI.html)
 
-### 1. Processo de Instalação
-```bash
-# Método 1: Instalação Direta de APK
-Baixar APK → Habilitar Fontes Desconhecidas → Instalar
+</details>
 
-# Método 2: Instalação para Desenvolvedores
-adb install MockLocation.apk
-```
+## Comunicar um problema
 
-### 2. Configuração de Permissões
-1. Abrir "Configurações" → "Opções do Desenvolvedor"
-2. Habilitar "App de Localização Mock"
-3. Selecionar "Wukong Virtual Location"
-4. Conceder permissões de acesso à localização
-
-### 3. Uso Básico
-```
-1. Iniciar o aplicativo
-2. Tocar na localização desejada no mapa
-3. Clicar em "Iniciar Mock"
-4. Verificar se a localização está ativa
-```
-
-## 💡 Casos de Uso | Cenários de Aplicação
-
-### 👨‍💻 Desenvolvimento e Teste
-- **Desenvolvimento de Apps LBS**: Testar funcionalidade de serviços baseados em localização
-- **Debug de Aplicações de Mapas**: Verificar exibição de mapas e planejamento de rotas
-- **Teste de Precisão de Localização**: Simular diferentes intensidades de sinal GPS
-- **Teste de Casos Extremos**: Testar comportamento do app em localizações especiais
-
-### 🎮 Cenários de Aplicação
-- **Apps Sociais**: Testar compartilhamento de localização e recursos de check-in
-- **Apps de Viagem**: Debug de aplicações de transporte e navegação
-- **Apps de Jogos**: Testar jogos AR e jogos baseados em localização
-- **Proteção de Privacidade**: Proteger privacidade de localização real
-
-## 📊 Especificações Técnicas | Especificações
-
-### Precisão de Localização
-- **Precisão GPS**: ±1-5 metros
-- **Localização de Rede**: ±10-100 metros
-- **Torre Celular**: ±100-1000 metros
-
-### Métricas de Performance
-- **Tempo de Inicialização**: <3 segundos
-- **Troca de Localização**: <1 segundo
-- **Consumo de Bateria**: Design de ultra baixo consumo
-- **Uso de Memória**: Runtime <30MB
-
-## ❓ FAQ | Perguntas Frequentes
-
-### P: É necessário acesso root?
-R: Não, este app funciona perfeitamente em dispositivos sem root usando a API de localização mock do sistema.
-
-### P: Quais versões do Android são suportadas?
-R: Todas as versões do Android de 4.4 até o mais recente Android 14 são totalmente suportadas.
-
-### P: Pode ser detectado por outros apps?
-R: Usa tecnologia avançada de hook tornando a detecção extremamente difícil, mas use responsavelmente.
-
-### P: Afeta outras aplicações?
-R: Afeta apenas funções relacionadas à localização, todas as outras funcionalidades do app permanecem inalteradas.
-
-## 🔄 Histórico de Versões | Atualizações
-
-### v3.2.0 (Última Versão)
-- ✅ Adicionado suporte completo ao Android 14
-- ✅ Algoritmos de precisão de localização aprimorados
-- ✅ Corrigidos problemas de estabilidade conhecidos
-- ✅ Capacidades anti-detecção melhoradas
-
-### v3.1.0
-- Adicionada funcionalidade de gravação de rotas
-- Suporte para importação de arquivos GPX
-- Redesign completo da UI
-
-### v3.0.0
-- Grande reformulação da arquitetura
-- Performance e estabilidade aprimoradas
-- Novos recursos avançados
-
-## 📥 Links de Download | Downloads
-
-### 🔗 Downloads Oficiais
-- **Download Principal**: [123Pan Cloud Storage](https://www.123pan.com/s/k6bMjv-adiI.html)
-
-- **Download Espelho**: [LanzouCloud Backup](https://wwnr.lanzouv.com/b0knhjugb)
-
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Baixar no Google Play - Loja oficial**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
-
-
-### 📱 Verificação da Instalação
-```bash
-# Verificar integridade do pacote
-MD5: a1b2c3d4e5f6...
-SHA256: 1a2b3c4d5e6f...
-Tamanho do Arquivo: ~15MB
-```
-
-## 🛡️ Segurança e Privacidade | Informações de Segurança
-
-- ✅ Livre de vírus, sem código malicioso
-- ✅ Não coleta dados pessoais
-- ✅ Sem transmissão de dados pela rede
-- ✅ Operação completamente offline
-- ✅ Auditoria de segurança open source
-
-## 📞 Suporte e Comunidade | Suporte Técnico
-
-- **Documentação**: [Guia Completo do Usuário](https://docs.mocklocation.com)
-- **Relatórios de Bug**: [GitHub Issues](https://github.com/username/MockLocation/issues)
-- **Comunidade**: Telegram Group @MockLocationUsers
-- **Suporte por Email**: support@mocklocation.com
-- **API do Desenvolvedor**: [Documentação da API](https://api.mocklocation.com)
-
-## 🌐 Idiomas Suportados | Suporte a Idiomas
-
-- **English** (en) - Complete
-- **中文简体** (zh) - 完整支持
-- **Español** (es) - Completo
-- **Français** (fr) - Complet
-- **Deutsch** (de) - Vollständig
-- **日本語** (ja) - 完全対応
-- **한국어** (ko) - 완전 지원
-- **Русский** (ru) - Полная поддержка
-- **Português** (pt) - Completo
-- **العربية** (ar) - كامل
-
-## 📜 Licença | Licença de Código Aberto
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 🌟 Projetos Relacionados | Projetos Correlatos
-
-- [GPS Toolkit](https://github.com/username/gps-toolkit) - Suite de utilitários GPS
-- [Android Location Framework](https://github.com/username/android-location) - Wrapper da API de localização
-- [LBS Development SDK](https://github.com/username/lbs-sdk) - SDK de serviços de localização
-
-## 📈 Estatísticas | Estatísticas do Projeto
-
-- **Total de Downloads**: 100.000+
-- **GitHub Stars**: 5.000+
-- **Usuários Ativos**: 10.000+ mensalmente
-- **Dispositivos Suportados**: 1000+ modelos testados
-
----
-
-**Tags SEO**: #MockGPS #FakeLocation #AndroidDeveloper #LBSTesting #GPSSpoof #LocationSimulator #AndroidTools #DeveloperTools #GPSEmulator #LocationTesting #AndroidDev #MobileDevTools
-
-
-
+Indique a versão da aplicação, o modelo do dispositivo, a versão do Android e os passos para reproduzir o problema: [GitHub Issues](https://github.com/ChenGuoqing1001/MockLocation/issues).

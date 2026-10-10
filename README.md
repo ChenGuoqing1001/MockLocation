@@ -1,208 +1,92 @@
-# 悟空虚拟定位 - Android模拟定位工具 | Mock GPS Location App
+# 悟空虚拟定位 — Android 模拟定位与 GPS 路线测试工具
 
-# 🚀 立即下载 | DOWNLOAD NOW
+悟空虚拟定位（Mock Location）通过 Android 的模拟位置功能，为地图、导航和 LBS 应用提供测试位置。支持地图选点、地点搜索、坐标输入和路线模拟，无需 Root。
 
-<div align="center">
+**[⬇ 下载 APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)** · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
 
-# 📱 免费下载 - 100,000+ 用户信赖
+[![GitHub release](https://img.shields.io/github/v/release/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/stargazers)
 
-## 🔥 [📥 **立即下载APK** - 主下载地址](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
+## 应用预览
 
-## 💙 [📱 **备用下载链接** - 蓝奏云高速下载](https://wwnr.lanzouv.com/b0knhjugb) 💙
+<p>
+  <img src="assets/screenshots/map.png" width="260" alt="悟空虚拟定位：地图选点与开始模拟位置" />
+  <img src="assets/screenshots/route.png" width="260" alt="悟空虚拟定位：路线规划与速度设置" />
+</p>
 
-## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Google Play 下载 - 官方商店**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+<details>
+<summary>其他语言 / Other languages</summary>
 
-### 文件大小: ~15MB | 安全无毒: ✅ 完全免费 | 即下即用: ⚡ 3秒安装
+[中文](README.md) · [English](README_en.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Русский](README_ru.md) · [Português](README_pt.md) · [Português (BR)](README_pt_BR.md) · [Italiano](README_it.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [Türkçe](README_tr.md) · [Nederlands](README_nl.md) · [Tiếng Việt](README_vi.md) · [ไทย](README_th.md) · [தமிழ்](README_ta.md) · [Bahasa Indonesia](README_id.md)
 
----
+</details>
 
-</div>
+## 核心功能
 
-## 🌐 多语言版本 | Multi-language Versions
+- **地图选点与搜索**：拖动或选择目标位置，也可以搜索地点和地址。
+- **坐标输入**：支持 WGS84、GCJ-02、BD-09 坐标及转换。
+- **路线模拟**：添加路径点、设置移动速度，用于测试移动中的定位行为。
+- **地图切换**：提供 Google、高德、百度等地图来源。
+- **收藏与历史**：保存常用测试地点，方便重复验证。
 
-**选择你的语言 | Choose Your Language:**
+## Android 如何设置模拟定位
 
-[![中文](https://img.shields.io/badge/README-中文-red.svg)](README.md)
-[![English](https://img.shields.io/badge/README-English-blue.svg)](README_en.md)
-[![Español](https://img.shields.io/badge/README-Español-green.svg)](README_es.md)
-[![Français](https://img.shields.io/badge/README-Français-blue.svg)](README_fr.md)
-[![Deutsch](https://img.shields.io/badge/README-Deutsch-black.svg)](README_de.md)
-[![日本語](https://img.shields.io/badge/README-日本語-red.svg)](README_ja.md)
-[![한국어](https://img.shields.io/badge/README-한국어-blue.svg)](README_ko.md)
-[![Русский](https://img.shields.io/badge/README-Русский-blue.svg)](README_ru.md)
-[![Português](https://img.shields.io/badge/README-Português-green.svg)](README_pt.md)
-[![Português(BR)](https://img.shields.io/badge/README-Português(BR)-yellow.svg)](README_pt_BR.md)
-[![Italiano](https://img.shields.io/badge/README-Italiano-green.svg)](README_it.md)
-[![العربية](https://img.shields.io/badge/README-العربية-green.svg)](README_ar.md)
-[![हिन्दी](https://img.shields.io/badge/README-हिन्दी-orange.svg)](README_hi.md)
-[![Türkçe](https://img.shields.io/badge/README-Türkçe-red.svg)](README_tr.md)
-[![Nederlands](https://img.shields.io/badge/README-Nederlands-orange.svg)](README_nl.md)
-[![Tiếng Việt](https://img.shields.io/badge/README-Tiếng_Việt-red.svg)](README_vi.md)
-[![ไทย](https://img.shields.io/badge/README-ไทย-blue.svg)](README_th.md)
-[![தமிழ்](https://img.shields.io/badge/README-தமிழ்-red.svg)](README_ta.md)
-[![Indonesia](https://img.shields.io/badge/README-Indonesia-red.svg)](README_id.md)
+1. 下载 APK 并安装；如果系统询问，允许当前浏览器或文件管理器安装该 APK。
+2. 打开手机「设置」，在「关于手机」中找到版本号并连续点击 7 次，按提示启用「开发者选项」。不同品牌的入口名称可能不同。
+3. 在「开发者选项」中找到「选择模拟位置信息应用」，选择本应用。
+4. 返回应用，按提示授予位置权限，选择地图位置或输入坐标，然后启动模拟。
+5. 在需要测试的应用中刷新定位，检查是否使用了目标位置；测试结束后停止模拟。
 
----
+开发者选项的入口可参考 [Android 官方说明](https://developer.android.com/studio/debug/dev-options)。系统版本兼容性以实际安装提示及商店说明为准。
 
-![License](https://img.shields.io/badge/License-Free-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)
-![Version](https://img.shields.io/badge/Version-Latest-orange.svg)
+<details>
+<summary>通过 ADB 安装</summary>
 
-## 📍 简介 | Overview
+安装 Android Platform Tools，在设备上开启 USB 调试并授权电脑后，在 APK 所在目录执行：
 
-**悟空虚拟定位**是一款专业的Android GPS模拟定位工具，专为开发者和用户提供精确的地理位置模拟功能。无需Root权限，支持所有Android版本，是目前最可靠的fake location解决方案。
-
-**关键词**: 模拟定位、虚拟定位、fake location、mock gps、GPS模拟器、Android定位工具、位置伪装、GPS欺骗
-
-## ⭐ 核心特性 | Key Features
-
-### 🎯 精准定位模拟
-- **无Root模拟**: 无需Root权限即可使用
-- **精确坐标**: 支持GPS、网络定位双重模拟
-- **实时更新**: 实时修改设备位置信息
-- **轨迹模拟**: 支持自定义移动路径和速度
-
-### 🛠️ 开发者功能
-- **LBS测试**: Location-Based Services完整测试套件
-- **API兼容**: 支持所有主流定位API
-- **调试模式**: 详细的定位日志和错误报告
-- **批量测试**: 支持多点位快速切换
-
-### 🔧 高级选项
-- **摇杆控制**: 游戏手柄式精确控制
-- **收藏位置**: 常用位置一键切换
-- **历史记录**: 完整的使用历史追踪
-- **导入导出**: 支持GPX、KML等格式
-
-## 📱 系统要求 | System Requirements
-
-| 项目 | 要求 |
-|------|------|
-| **操作系统** | Android 4.4+ (API 19+) |
-| **架构支持** | ARM、ARM64、x86、x86_64 |
-| **权限需求** | 位置权限、存储权限 |
-| **内存占用** | 最小20MB，推荐50MB+ |
-| **存储空间** | 最小10MB可用空间 |
-
-## 🚀 快速开始 | Quick Start
-
-### 1. 下载安装
 ```bash
-# 方式一：直接下载APK
-下载 → 允许未知来源 → 安装
-
-# 方式二：开发者模式安装
-adb install MockLocation.apk
+adb install -r MockLocation-google.apk
 ```
 
-### 2. 权限设置
-1. 打开"设置" → "开发者选项"
-2. 启用"模拟位置信息应用"
-3. 选择"悟空虚拟定位"
-4. 授予位置访问权限
+</details>
 
-### 3. 基本使用
-```
-1. 启动应用
-2. 在地图上点击目标位置
-3. 点击"开始模拟"
-4. 验证位置是否生效
-```
+## 模拟定位不生效怎么办？
 
-## 💡 使用场景 | Use Cases
+先确认「模拟位置信息应用」仍选中本应用，并检查应用内是否已启动模拟、位置权限是否已授予。更新或重新安装后，可以重新选择模拟位置应用，再刷新测试应用的定位。
 
-### 👨‍💻 开发测试
-- **LBS应用开发**: 测试基于位置的服务功能
-- **地图应用调试**: 验证地图显示和路径规划
-- **定位精度测试**: 模拟不同精度的GPS信号
-- **边界条件测试**: 测试应用在特殊位置的表现
+Android 会标记模拟位置，部分应用可能识别或拒绝这些位置。本工具不保证所有第三方应用都接受模拟定位，详情可参考 [Android 模拟位置标记说明](https://developer.android.com/reference/android/location/Location#isMock())。
 
-### 🎮 应用场景
-- **社交应用**: 位置分享和签到功能测试
-- **出行应用**: 打车和导航应用调试
-- **游戏应用**: AR游戏和位置游戏测试
-- **隐私保护**: 保护真实位置隐私
+## 小米 / HyperOS 切到后台后停止模拟怎么办？
 
-## 📊 技术规格 | Technical Specifications
+先检查应用是否仍在运行。若切到后台或锁屏后停止，在系统的应用设置中检查电池限制、后台运行及自启动选项，按测试需要允许后台运行，再重新测试。不同 MIUI / HyperOS 版本的选项名称和路径可能不同。
 
-### 定位精度
-- **GPS精度**: ±1-5米
-- **网络定位**: ±10-100米
-- **基站定位**: ±100-1000米
+## 地点搜索失败或地图加载不出来怎么办？
 
-### 性能指标
-- **启动时间**: <3秒
-- **位置切换**: <1秒
-- **电池消耗**: 极低功耗设计
-- **内存占用**: 运行时<30MB
+检查网络连接和当前地图服务是否可用，尝试切换地图来源。地点搜索使用百度地图 API；地图加载和搜索需要联网，不能把应用所有功能视为完全离线。
 
-## ❓ 常见问题 | FAQ
+## 输入坐标后位置偏移怎么办？
 
-### Q: 是否需要Root权限？
-A: 不需要，本应用支持非Root环境下的位置模拟。
+确认输入坐标的类型，并选择对应的 WGS84、GCJ-02 或 BD-09 坐标系。不同坐标系混用可能导致位置偏移；建议使用一个已知地点核对转换结果。
 
-### Q: 支持哪些Android版本？
-A: 支持Android 4.4及以上所有版本，包括最新的Android 14。
+## 隐私与使用说明
 
-### Q: 会被检测到吗？
-A: 采用底层Hook技术，检测难度极高，但建议合理使用。
+收藏和历史记录保存在设备本地；地图和搜索功能会访问对应的地图服务。详细隐私说明与付费项目以 [Google Play 页面](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)及其隐私政策为准。
 
-### Q: 是否影响其他应用？
-A: 只影响位置相关功能，其他功能不受影响。
+本工具用于定位功能开发、测试和演示。请遵守使用场景的规则，不用于伪造打卡、欺骗奖励或绕过业务系统。
 
-## 🔄 版本更新 | Changelog
+## 下载与版本
 
-### v3.2.0 (最新版本)
-- ✅ 新增Android 14支持
-- ✅ 优化定位精度算法
-- ✅ 修复已知稳定性问题
-- ✅ 增强反检测能力
+- [下载 APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)
+- [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+- [GitHub Releases](https://github.com/ChenGuoqing1001/MockLocation/releases)
 
-### v3.1.0
-- 添加轨迹录制功能
-- 支持GPX文件导入
-- UI界面全新设计
+<details>
+<summary>备用下载</summary>
 
-## 📥 下载地址 | Download Links
+- [蓝奏云](https://wwnr.lanzouv.com/b0knhjugb)
+- [123 云盘](https://www.123pan.com/s/k6bMjv-adiI.html)
 
-### 🔗 官方下载
-- ## 🔥 [**123云盘高速下载**](https://www.123pan.com/s/k6bMjv-adiI.html) 🔥
-- ## 💙 [**蓝奏云备用下载**](https://wwnr.lanzouv.com/b0knhjugb) 💙
+</details>
 
-- ## 💚 [![Google Play](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) [**Google Play 下载 - 官方商店**](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator) 💚
+## 问题反馈
 
-## 🛡️ 安全说明 | Security Notice
-
-- ✅ 无病毒、无恶意代码
-- ✅ 不收集个人隐私信息
-- ✅ 不联网上传数据
-- ✅ 完全离线运行
-
-## ⚠️ 使用声明 | Usage Statement
-
-- 本应用仅用于开发者调试、测试定位功能。
-- 用户不得将本应用用于伪造打卡、欺骗奖励、绕过业务系统，因不当使用造成后果由用户自行承担。
-
-## 📞 技术支持 | Support
-
-- **使用教程**: [详细图文教程](#)
-- **问题反馈**: [GitHub Issues](https://github.com/username/MockLocation/issues)
-- **开发交流**: QQ群：123456789
-- **邮箱联系**: support@mocklocation.com
-
-## 📜 开源协议 | License
-
-本项目采用 MIT 开源协议，详见 [LICENSE](LICENSE) 文件。
-
-## 🌟 相关项目 | Related Projects
-
-- [GPS工具箱](https://github.com/username/gps-toolkit)
-- [安卓定位框架](https://github.com/username/android-location)
-- [LBS开发库](https://github.com/username/lbs-sdk)
-
----
-
-**关键标签**: #Android #MockGPS #FakeLocation #LocationSpoof #GPSEmulator #LBSTesting #AndroidDeveloper #位置模拟 #GPS工具 #安卓开发
-
-
-
+请提供应用版本、手机型号、Android / 系统版本和复现步骤，提交到 [GitHub Issues](https://github.com/ChenGuoqing1001/MockLocation/issues)。
