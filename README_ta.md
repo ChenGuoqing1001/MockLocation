@@ -2,7 +2,14 @@
 
 Wukong Virtual Location (Mock Location), Android-இன் மாதிரி இருப்பிட வசதியைக் கொண்டு சோதனை இருப்பிடங்களை வழங்குகிறது. வரைபடத்தில் புள்ளியைத் தேர்ந்தெடுக்கவும், இடத்தைத் தேடவும், ஆயங்களை உள்ளிடவும் அல்லது வழித்தடத்தை உருவகப்படுத்தவும். Root தேவையில்லை.
 
-**[⬇ APK பதிவிறக்கவும்](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)** · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+**[⬇ APK பதிவிறக்கவும்](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)**
+
+<p>
+  <br />
+  <a href="https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator">
+    <img src="assets/google-play-badge.svg" width="180" alt="Google Play" />
+  </a>
+</p>
 
 [![GitHub release](https://img.shields.io/github/v/release/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/stargazers)
 
@@ -57,7 +64,7 @@ Wukong Virtual Location (Mock Location), Android-இன் மாதிரி �
 ## பதிவிறக்கங்கள் மற்றும் பதிப்புகள்
 
 - [APK பதிவிறக்கவும்](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)
-- [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+- <a href="https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator"><img src="assets/google-play.svg" width="20" alt="" /> Google Play</a>
 - [GitHub Releases](https://github.com/ChenGuoqing1001/MockLocation/releases)
 
 <details>

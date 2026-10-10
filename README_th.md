@@ -2,7 +2,14 @@
 
 Wukong Virtual Location (Mock Location) ให้ตำแหน่งทดสอบผ่านฟีเจอร์ตำแหน่งจำลองของ Android เลือกจุดบนแผนที่ ค้นหาสถานที่ ป้อนพิกัด หรือจำลองเส้นทางได้ โดยไม่ต้อง Root
 
-**[⬇ ดาวน์โหลด APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)** · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+**[⬇ ดาวน์โหลด APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)**
+
+<p>
+  <br />
+  <a href="https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator">
+    <img src="assets/google-play-badge.svg" width="180" alt="Google Play" />
+  </a>
+</p>
 
 [![GitHub release](https://img.shields.io/github/v/release/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/stargazers)
 
@@ -57,7 +64,7 @@ Wukong Virtual Location (Mock Location) ให้ตำแหน่งทดส�
 ## ดาวน์โหลดและเวอร์ชัน
 
 - [ดาวน์โหลด APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)
-- [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+- <a href="https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator"><img src="assets/google-play.svg" width="20" alt="" /> Google Play</a>
 - [GitHub Releases](https://github.com/ChenGuoqing1001/MockLocation/releases)
 
 <details>

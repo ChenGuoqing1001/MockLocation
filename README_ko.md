@@ -2,7 +2,14 @@
 
 Wukong Virtual Location(Mock Location)은 Android의 모의 위치 기능으로 테스트 위치를 제공합니다. 지도에서 지점을 선택하거나 장소 검색, 좌표 입력, 경로 시뮬레이션을 사용할 수 있으며 루팅이 필요하지 않습니다.
 
-**[⬇ APK 다운로드](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)** · [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+**[⬇ APK 다운로드](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)**
+
+<p>
+  <br />
+  <a href="https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator">
+    <img src="assets/google-play-badge.svg" width="180" alt="Google Play" />
+  </a>
+</p>
 
 [![GitHub release](https://img.shields.io/github/v/release/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/ChenGuoqing1001/MockLocation)](https://github.com/ChenGuoqing1001/MockLocation/stargazers)
 
@@ -57,7 +64,7 @@ Wukong Virtual Location(Mock Location)은 Android의 모의 위치 기능으로 
 ## 다운로드 및 버전
 
 - [APK 다운로드](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)
-- [Google Play](https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator)
+- <a href="https://play.google.com/store/apps/details?id=com.yangtools.gps.simulator"><img src="assets/google-play.svg" width="20" alt="" /> Google Play</a>
 - [GitHub Releases](https://github.com/ChenGuoqing1001/MockLocation/releases)
 
 <details>
