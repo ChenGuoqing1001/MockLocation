@@ -1,5 +1,7 @@
 # 悟空虚拟定位 — Android 模拟定位与 GPS 路线测试工具
 
+[简体中文](README.md) · [English](README_en.md)
+
 悟空虚拟定位（Mock Location）通过 Android 的模拟位置功能，为地图、导航和 LBS 应用提供测试位置。支持地图选点、地点搜索、坐标输入和路线模拟，无需 Root。
 
 **[⬇ 下载 APK](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)**

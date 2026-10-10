@@ -1,5 +1,7 @@
 # Wukong Virtual Location - Android Mock GPS Tool | 悟空虚拟定位
 
+[简体中文](README.md) · [English](README_en.md)
+
 Wukong Virtual Location (Mock Location) levert testlocaties via de functie voor neplocaties van Android. Kies een punt op de kaart, zoek plaatsen, voer coördinaten in of simuleer een route. Root is niet nodig.
 
 **[⬇ APK downloaden](https://github.com/ChenGuoqing1001/MockLocation/releases/latest/download/MockLocation-google.apk)**
